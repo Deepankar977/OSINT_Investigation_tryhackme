@@ -1,4 +1,4 @@
-# OSINT Investigation Report
+# OSINT Report
 
 This repository contains an OSINT investigation report conducted on TryHackMe's **"Ohsint"** room.
 
