@@ -1,6 +1,6 @@
 # OSINT Report
 
-This repository contains an OSINT investigation report conducted on TryHackMe's **"Ohsint"** room.
+This repository contains an OSINT investigation report (docx format) conducted on TryHackMe's **"Ohsint"** room.
 
 ## 📄 Report Details
 - **Target Username:** OWoodflint
